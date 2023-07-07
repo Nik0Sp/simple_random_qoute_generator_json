@@ -9,8 +9,8 @@
 
 To use this application, follow these steps:
 
-1. Clone the repository: `git clone git@github.com:Nik0Sp/simple_random_qoute_generator_json.git`
-2. Change directory to the project folder: `cd simple_random_qoute_generator_json`
+1. Clone the repository: `git clone git@github.com:Nik0Sp/simple_random_quote_generator_json.git`
+2. Change directory to the project folder: `cd simple_random_quote_generator_json`
 3. Install the dependencies: `npm install`
 4. Start the development server: `npm start`
 5. Open your browser and visit `http://localhost:3000` to see the application in action.
